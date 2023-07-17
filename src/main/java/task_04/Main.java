@@ -9,7 +9,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        int n = 0;
+        int n;
         try {
             n = Integer.parseInt(reader.readLine());
         } catch (IOException e) {

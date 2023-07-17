@@ -53,6 +53,6 @@ public class Main_004 {
         for (char ch : stack) {
             sb.append(ch);
         }
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
 }
